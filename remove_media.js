@@ -1,5 +1,4 @@
 // ==UserScript==
- 
 // @namespace    Focus
 // @name         Remove media
 // @description  Remove images and videos
@@ -9,7 +8,6 @@
 // @license      MIT
 // @grant        none
 // @match        *://*/*
- 
 // ==/UserScript==
  
 (function() {
