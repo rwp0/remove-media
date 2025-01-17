@@ -16,7 +16,7 @@
 (function() {
   'use strict';
  
-  for (var element of document.querySelectorAll('img, video, figure, svg')) { // NodeList
+  for (var element of document.querySelectorAll('img, video, figure, svg, embed')) { // NodeList
     element.remove();
   }
  
