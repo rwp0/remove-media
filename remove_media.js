@@ -1,6 +1,6 @@
 // ==UserScript==
  
-// @namespace    Personal
+// @namespace    Focus
 // @name         Remove media
 // @description  Remove images and videos
 // @version      2025-01-17
@@ -8,8 +8,7 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=wikimedia.org
 // @license      MIT
 // @grant        none
- 
-// @match *://*/*
+// @match        *://*/*
  
 // ==/UserScript==
  
